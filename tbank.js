@@ -10,6 +10,8 @@
 // ==/UserScript==
 
 function hideCashbackMainPage() {
+
+    
   document.querySelectorAll('[data-qa-type="desktop-bonuses-entrypoint"]').forEach(el => {
     const spans = el.querySelectorAll('a');
     for (const span of spans) {
