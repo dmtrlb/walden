@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Скрытие лишних блоков Т-Банк
 // @namespace    http://tampermonkey.net/
-// @version      2026-03-07
+// @version      2026-03-16 09:00
 // @description  try to take over the world!
 // @author       You
 // @match        https://*.tbank.ru/*
